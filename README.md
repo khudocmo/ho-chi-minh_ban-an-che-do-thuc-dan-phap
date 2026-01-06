@@ -1,5 +1,7 @@
 # Bản án chế độ thực dân Pháp - Nguyễn Ái Quốc (Trang dự án số hóa sách)
 
+[Truy cập Trang dự án số hóa này sách trên Github](https://github.com/khudocmo/ho-chi-minh_ban-an-che-do-thuc-dan-phap)
+
 ## Thông tin tác phẩm
 
 - Tác phẩm: Bản án chế độ thực dân Pháp
@@ -14,3 +16,4 @@
 <a href="./files/ho-chi-minh_ban-an-che-do-thuc-dan-phap.txt"><img src="/assets/txt.png" alt="TXT" width="50" /></a>
 
 <p>hoặc <a href="./files/ho-chi-minh_ban-an-che-do-thuc-dan-phap.html">Đọc trực tuyến</a>
+
